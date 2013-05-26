@@ -1,0 +1,84 @@
+a:link {color: #FFFFFF; text-decoration: none;}
+a:visited {color: #FFFFFF; text-decoration: none;}
+a:hover {color: #20ff20; text-decoration: none;}
+
+body, table {
+	background: #000000;
+	margin: 0px;
+	padding: 0px; 
+	font-family: Verdana;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.container {
+	width: 950;
+	word-wrap: break-word;
+}
+
+img {
+	border: 0;
+}
+
+table {
+	background: #242424;
+	width: 80%;
+	border-spacing: 5px;
+}
+
+table td {
+	border-width: 2px;
+	padding: 1px;
+	border-style: solid;
+	border-color: #666666;
+	-moz-border-radius: ;
+}
+
+.progress {
+	background: #000000;
+}
+
+.block, .top {
+        padding: 6px;
+        margin: 3px;
+        background-color: #242424;
+        border: 1px solid #474747;
+}
+
+.top {
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.contents {
+	padding: 0px;
+	margin: 0;
+	float: right;
+	width: 690;
+}
+
+.menu {
+	float: left;
+	width: 260;
+	padding: 0px;
+	margin: 0px;
+}
+
+.submit {
+        font-size: 12px;
+}
+
+input {
+        font-family: "Verdana";
+        color: #FFFFFF;
+        background-color: #444444;
+		font-size: 10px;
+}
+
+select {
+        font-family: "Verdana";
+        color: #FFFFFF;
+        background-color: #444444;
+		font-size: 10px;
+}
