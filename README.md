@@ -1,7 +1,7 @@
-Java NZB
+JavaNZB
 ---------------
 
-Java NZB is java program that fetches NZB files from Newzbin whenever a
+JavaNZB is java program that fetches NZB files from Newzbin whenever a
 new episode for a show is aired according to www.tvrage.com, and drops them into a
 queue directory for download.
 
